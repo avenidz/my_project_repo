@@ -1,1 +1,1 @@
-# my_project_repo
+# my_notes_repo
